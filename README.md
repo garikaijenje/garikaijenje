@@ -16,9 +16,9 @@
 
  ## My Values
  
- ⤷ Safety & Trust
- ⤷ Beginner's Mindset & Curiosity
- ⤷ Shared Understanding & Consensus
+ - Safety & Trust
+ - Beginner's Mindset & Curiosity
+ - Shared Understanding & Consensus
  
  
  ## My Skills (Things I Can Code With)
