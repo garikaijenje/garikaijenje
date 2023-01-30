@@ -1,5 +1,5 @@
 ### Hi I'm Garikai Jenje (he/him) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-### I'm a Front-End Developer (Full-Stack in my former life). This is the place where I opensource stuff and break things :rofl:
+I'm a Front-End Developer (Full-Stack in my former life). This is the place where I opensource stuff and break things :rofl:
 
 [![Linkedin Badge](https://img.shields.io/badge/-garikaijenje-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garikai-jenje/)](https://www.linkedin.com/in/garikai-jenje/)
 [![Website Badge](https://img.shields.io/badge/-garikaijenje.co.zw-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://garikaijenje.co.zw)](https://garikaijenje.co.zw)
