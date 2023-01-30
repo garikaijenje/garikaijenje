@@ -1,9 +1,9 @@
 # Hi I'm Garikai Jenje 👋
 ### Front-End Developer (Full-Stack in my former life).
 
-[![Linkedin Badge](https://img.shields.io/badge/-garikai-jenje-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garikai-jenje/)](https://www.linkedin.com/in/garikai-jenje/)
+[![Linkedin Badge](https://img.shields.io/badge/-garikaijenje-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garikai-jenje/)](https://www.linkedin.com/in/garikai-jenje/)
 [![Website Badge](https://img.shields.io/badge/-garikaijenje.co.zw-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://garikaijenje.co.zw)](https://garikaijenje.co.zw)
-[![Twitter Badge](https://img.shields.io/badge/-@garikaijenje?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/garikaijenje)](https://twitter.com/garikaijenje)
+[![Twitter Badge](https://img.shields.io/badge/-@garikaijenje-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/garikaijenje)](https://twitter.com/garikaijenje)
 [![Gmail Badge](https://img.shields.io/badge/-garikaijen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:garikaijen@gmail.com)](mailto:garikaijen@gmail.com)
 
 ⤷ I've worked with people, clients and agencies in Zimbabwe, Canada, USA, UK, Germany, Malawi, South Africa and Ghana.
