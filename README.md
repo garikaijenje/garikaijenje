@@ -1,14 +1,16 @@
-# Garikai Jenje
+# Hi I'm Garikai Jenje 👋
 ### Front-End Developer (Full-Stack in my former life).
 
-⤷ I've worked with people, clients and agencies in Zimbabwe, Canada, USA, UK, Germany, Malawi, South Africa and Ghana.
+[![Linkedin Badge](https://img.shields.io/badge/-garikai-jenje-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garikai-jenje/)](https://www.linkedin.com/in/garikai-jenje/)
+[![Website Badge](https://img.shields.io/badge/-garikaijenje.co.zw-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://garikaijenje.co.zw)](https://garikaijenje.co.zw)
+[![Twitter Badge](https://img.shields.io/badge/-@garikaijenje?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/garikaijenje)](https://twitter.com/garikaijenje)
+[![Gmail Badge](https://img.shields.io/badge/-garikaijen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:garikaijen@gmail.com)](mailto:garikaijen@gmail.com)
 
- <a aligh="left" href="https://garikaijenje.co.zw" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:garikaijen@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/garikaijenje" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/garikai-jenje" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+⤷ I've worked with people, clients and agencies in Zimbabwe, Canada, USA, UK, Germany, Malawi, South Africa and Ghana.
 
 ⚐ Based in Zimbabwe
 
 ϟ Currently Learning Rust & Building Developer Tools
-
 
 
  ## Skills
