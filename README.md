@@ -37,7 +37,7 @@ I'm a big fan of **EMINEM**
 
 ---
 
-<a href="https://garikaijenje.co.zw" alt="https://garikaijenje.co.zw"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=garikaijenje&color=000000"></a>
+<a href="https://garikaijenje.co.zw" alt="https://garikaijenje.co.zw"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=garikai%20jenje&color=000000"></a>
 <!-- <a href="https://garikaijenje.co.zw" alt="garikaijenje.co.zw"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GARIKAIJENJE&message=MIT&color=000000"></a> -->
 
 <!-- badge_plugin_end -->
