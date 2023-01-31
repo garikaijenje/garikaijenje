@@ -38,5 +38,5 @@ I'm a big fan of **EMINEM**
 <a href="https://garikaijenje.co.zw" alt="https://garikaijenje.co.zw"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=garikai%20jenje&color=000000"></a>
 <!-- <a href="https://garikaijenje.co.zw" alt="garikaijenje.co.zw"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GARIKAIJENJE&message=MIT&color=000000"></a> -->
 
-I am always open to new ideas and opportunities. You can learn more about me on my [website](https://garikaijenje..co.zw) or [LinkedIn](https://www.linkedin.com/in/garikai-jenje/) or reach out to me directly at [garikaijen@gmail.com](mailto:garikaijen@gmail.com)
+I'm always open to new ideas and opportunities. You can learn more about me on my [website](https://garikaijenje.co.zw) or [LinkedIn](https://www.linkedin.com/in/garikai-jenje/) or reach out to me directly at [garikaijen@gmail.com](mailto:garikaijen@gmail.com)
 
