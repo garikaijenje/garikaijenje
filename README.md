@@ -32,3 +32,12 @@ I'm a Front-End Developer (Full-Stack in my former life). This is the place wher
 ## Fun Fact
 
 I'm a big fan of **EMINEM**
+
+<!-- badge_plugin_start -->
+
+---
+
+<a href="https://github.com/blackcater" alt="https://github.com/garikaijenje"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=garikaijenje&color=000000"></a>
+<!-- <a href="https://garikaijenje.co.zw" alt="garikaijenje.co.zw"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GARIKAIJENJE&message=MIT&color=000000"></a> -->
+
+<!-- badge_plugin_end -->
