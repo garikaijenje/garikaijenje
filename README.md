@@ -14,6 +14,8 @@ I'm a Front-End Developer (Full-Stack in my former life). This is the place wher
 
 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React or Rust/Node
 
+📙 Check out my <a href="https://www.garikaijenje.co.zw/resume.pdf">CV/Resume</a>.
+
  ## My Values
  
  - Safety & Trust
