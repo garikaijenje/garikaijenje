@@ -29,6 +29,12 @@ I'm a Front-End Developer (Full-Stack in my former life). This is the place wher
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=garikaijenje&show_icons=true&count_private=true" alt="garikaijenje" /> -->
 <!-- <p><img src="https://visitor-badge.glitch.me/badge?page_id=garikaijenje" alt="visitors"></p> -->
 
+## Favourite Nerdy Quote
+
+"IF YOU CRINGE AT YOUR OLD CODE, YOU'RE IMPROVING" - Unknown
+
+---
+
 ## Fun Fact
 
 I'm a big fan of **EMINEM**
