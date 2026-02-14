@@ -1,16 +1,16 @@
-# Hi I'm Garikai Jenje (he/him) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-I'm a Front-End Developer (Full-Stack in my former life). This is the place where I opensource stuff and break things :rofl:
+# Hi I'm Garikai Jenje <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+I'm a Senior Software Engineer and technical lead with 11+ years of experience delivering scalable, real-world software solutions across fintech, e-commerce, and healthcare. This is the place where I opensource stuff and break things :rofl:
 
 [![Linkedin Badge](https://img.shields.io/badge/-garikaijenje-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garikai-jenje/)](https://www.linkedin.com/in/garikai-jenje/)
 [![Website Badge](https://img.shields.io/badge/-garikaijenje.co.zw-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://garikaijenje.co.zw)](https://garikaijenje.co.zw)
 [![Twitter Badge](https://img.shields.io/badge/-@garikaijenje-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/garikaijenje)](https://twitter.com/garikaijenje)
 [![Gmail Badge](https://img.shields.io/badge/-garikaijen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:garikaijen@gmail.com)](mailto:garikaijen@gmail.com)
 
-⤷ I love working on open source tools as well as interesting and challenging projects. So far, I’ve worked with clients from 3 different continents, spread over 8 countries. I usually work remote, but travel if required.
+⤷ I love working on developer tools as well as interesting and challenging projects. So far, I’ve worked with clients from 3 different continents, spread over 8 countries. I usually work remote, but travel if required.
 
 ⚐ I'm based in Zimbabwe 🇿🇼 
 
-ϟ Currently Learning Rust (🤘) & Building Developer Tools (👨‍💻)
+ϟ Currently Building Developer Tools (👨‍💻)
 
 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React or Rust/Node
 
@@ -44,5 +44,5 @@ I'm a big fan of **EMINEM**
 <a href="https://garikaijenje.co.zw" alt="https://garikaijenje.co.zw"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=garikai%20jenje&color=000000"></a>
 <!-- <a href="https://garikaijenje.co.zw" alt="garikaijenje.co.zw"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GARIKAIJENJE&message=MIT&color=000000"></a> -->
 
-I'm always open to new ideas and opportunities. You can learn more about me on my [website](https://garikaijenje.co.zw) or [LinkedIn](https://www.linkedin.com/in/garikai-jenje/) or reach out to me directly at [garikaijen@gmail.com](mailto:garikaijen@gmail.com)
+I'm always open to new ideas and opportunities. You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/garikai-jenje/) or reach out to me directly at [garikaijen@gmail.com](mailto:garikaijen@gmail.com)
 
