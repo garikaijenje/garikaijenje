@@ -2,8 +2,7 @@
 I'm a Senior Software Engineer and technical lead with 11+ years of experience delivering scalable, real-world software solutions across fintech, e-commerce, and healthcare. This is the place where I opensource stuff and break things :rofl:
 
 [![Linkedin Badge](https://img.shields.io/badge/-garikaijenje-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garikai-jenje/)](https://www.linkedin.com/in/garikai-jenje/)
-[![Website Badge](https://img.shields.io/badge/-garikaijenje.co.zw-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://garikaijenje.co.zw)](https://garikaijenje.co.zw)
-[![Twitter Badge](https://img.shields.io/badge/-@garikaijenje-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/garikaijenje)](https://twitter.com/garikaijenje)
+[![Twitter Badge](https://img.shields.io/badge/-@garikaijenje-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/garikaijenje)](https://twitter.com/garikaijenje)
 [![Gmail Badge](https://img.shields.io/badge/-garikaijen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:garikaijen@gmail.com)](mailto:garikaijen@gmail.com)
 
 ⤷ I love working on developer tools as well as interesting and challenging projects. So far, I’ve worked with clients from 3 different continents, spread over 8 countries. I usually work remote, but travel if required.
