@@ -8,13 +8,11 @@ I'm a Senior Software Engineer and technical lead with 11+ years of experience d
 
 ⤷ I love working on developer tools as well as interesting and challenging projects. So far, I’ve worked with clients from 3 different continents, spread over 8 countries. I usually work remote, but travel if required.
 
-⚐ I'm based in Zimbabwe 🇿🇼 
+⚐ I'm based in South Africa 🇿🇦 
 
 ϟ Currently Building Developer Tools (👨‍💻)
 
 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React or Rust/Node
-
-📙 Check out my <a href="https://www.garikaijenje.co.zw/resume.pdf">CV/Resume</a>.
 
  ## My Values
  
@@ -37,7 +35,7 @@ I'm a Senior Software Engineer and technical lead with 11+ years of experience d
 
 ## Fun Fact
 
-I'm a big fan of **EMINEM**
+I'm a big fan of **EMINEM** and **Manchester City**
 
 ---
 
